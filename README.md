@@ -9,8 +9,6 @@
 
 ## Owner of startup [TiSimples](www.tisimples.com)
 
-
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/leonardo-menezes-04629a292/)
-[Email](leonardomenezes47@outlook.com)
+- [My Website](https://leonardomenezes7.github.io/leomenezes.dev/)
 
