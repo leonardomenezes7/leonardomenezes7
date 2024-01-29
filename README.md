@@ -7,7 +7,7 @@
 - HTML
 - CSS
 
-## Owner of startup [TiSimples](www.tisimples.com)
+## Owner of startup [TiSimples](https://tisimples.com)
 
 ## Contact
 - [My Website](https://leonardomenezes7.github.io/leomenezes.dev/)
