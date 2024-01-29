@@ -1,6 +1,6 @@
 # Hi👋, I'm Leonardo Menezes
 
-## Full Stack WEB Develpoer
+## Full Stack WEB Developer
 - JavaScript
 - Node.js
 - React.js
