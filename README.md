@@ -4,6 +4,7 @@
 - JavaScript
 - Node.js
 - React.js
+- SQL
 - HTML
 - CSS
 
