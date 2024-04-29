@@ -1,15 +1,14 @@
-# Hi👋, I'm Leonardo Menezes
+## Hello, I'm Leonardo Menezes!👋
 
-## Full Stack WEB Developer
-- JavaScript
-- Node.js
-- React.js
-- SQL
-- HTML
-- CSS
+- Full-stack WEB developer with a passion for technology👨‍💻
+- Always studying and expanding my knowledge🚀
+- Check out my projects📁
 
-## Owner of startup [TiSimples](https://tisimples.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-menezes-04629a292/)
 
-## Contact
-- [My Website](https://leonardomenezes7.github.io/leomenezes.dev/)
+## Tech Stack🛠️
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,express,git,tailwind,styledcomponents,sass,sqlite)](https://skillicons.dev)
 
+
+## GitHub Analytics
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomenezes7&theme=blue-green)
