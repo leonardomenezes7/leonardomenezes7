@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-menezes-04629a292/)
 
 ## Tech Stack🛠️
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,express,git,tailwind,styledcomponents,sass,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,express,git,tailwind,styledcomponents,sass,sqlite,fastify)](https://skillicons.dev)
 
 
 ## GitHub Analytics
